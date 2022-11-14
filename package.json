@@ -1,0 +1,22 @@
+{
+  "name": "pollifyjs",
+  "version": "0.1.0",
+  "description": "pollifyjs",
+  "main": "development.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pollifyJS/pollifyJS.git"
+  },
+  "keywords": [
+    "pollifyJS"
+  ],
+  "author": "E5war5IT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pollifyJS/pollifyJS/issues"
+  },
+  "homepage": "https://github.com/pollifyJS/pollifyJS#readme"
+}
